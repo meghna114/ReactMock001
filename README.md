@@ -21,7 +21,7 @@ react_mock01/
 ├── package-lock.json
 ├── package.json
 └── README.md
-'''
+```
 1  public/: Contains the static index.html file where the React app is mounted.
 
 2 index.html: The HTML template for the React application.
